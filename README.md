@@ -11,15 +11,6 @@ wearing/removing mask and display of prediction.
 
 ## Working 
 
-### With Mask
-
-![image](mask.png)
-
-### No Mask
-
-![image](nomask.png)
-
-
 
 
 ## Dataset
